@@ -1,0 +1,42 @@
+body{
+	background-color: #efece6 !important;
+}
+
+nav{
+	background-color: #000 !important;
+}
+
+.banner{
+	padding-bottom: 650px !important;
+}
+
+.caption{
+	color: #ffffff !important;
+	padding-top: 154px !important;
+}
+
+.gambar{
+	opacity:0.4;
+	filter:alpha(opacity=40);
+}
+
+.judulinfo{
+	padding: 80px 0px 0px 0px !important;
+}
+
+.tombol{
+	background-color: #000000 !important;
+}
+
+.service{
+	background-color: #efece6 !important;
+	padding: 80px 0px 80px 0px;
+}
+
+.footer{
+	background-color: #000  !important;
+}
+
+.footer-bawah{
+	background-color: #111  !important;
+}
